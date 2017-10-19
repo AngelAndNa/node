@@ -1,0 +1,1 @@
+this is also a JS 文件
